@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyComponent.vue renders correctly 1`] = `
+<div
+  class="test"
+>
+  <div>
+    0
+  </div>
+   
+  <button>
+    加
+  </button>
+   
+  <button>
+    减
+  </button>
+   
+  <button>
+    重置
+  </button>
+</div>
+`;
+
+exports[`MyComponent.vue 渲染Counter组件 1`] = `
+<div
+  class="test"
+>
+  <div>
+    0
+  </div>
+   
+  <button>
+    加
+  </button>
+   
+  <button>
+    减
+  </button>
+   
+  <button>
+    重置
+  </button>
+</div>
+`;
